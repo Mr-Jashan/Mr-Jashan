@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jashan Walia</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India </h3>
 <img src="https://camo.githubusercontent.com/bebb8c335f407e6f31ed9da75ebecc86cebc8941efae0ec924b6903b3fbb94c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313537393332322f73637265656e73686f74732f363538373237332f626c75655f626f795f747970696e675f6e6f74686f756768742e676966"  height='600' >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-jashan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-jashan" /> </p>
 
