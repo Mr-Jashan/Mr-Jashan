@@ -1,13 +1,25 @@
-<h1 align="center">Hi 👋, I'm Jashan Walia</h1>
-<h3 align="center">A passionate developer from India </h3>
-<img src="https://camo.githubusercontent.com/bebb8c335f407e6f31ed9da75ebecc86cebc8941efae0ec924b6903b3fbb94c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313537393332322f73637265656e73686f74732f363538373237332f626c75655f626f795f747970696e675f6e6f74686f756768742e676966"  height='600' >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-jashan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-jashan" /> </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div align="center">
+        <img src="https://github.com/Radhika980/Radhika980/blob/master/Radhika.gif" align="center" style="width: 80%" />
+    </div> 
+    <p>
+    👋 Hey there, tech enthusiasts! I'm <b>Jashan</b>, diving into the exciting world of technology as a dynamic 4th year computer science student at <b>Thapar Institute of Engineering and Technology</b>.
+    <br><br>
+    💻 My passion lies in exploring the depths of tech and software development. I thrive on mastering various programming languages like <b>C++, Python, R, and more</b>. I'm always hungry for knowledge, continually expanding my skill set to stay ahead in this ever-evolving field.
+    <br><br>
+    🚀 Currently, I'm immersing myself in the realms of <b>Azure</b> and sharpening my skills in <b>Power Bi</b> to keep pace with the latest emerging technologies. I'm actively on the lookout for internships and part-time roles to gain practical experience and carve my path in the tech industry.
+    <br><br>
+    📚 Beyond coding, I'm an avid reader and tech enthusiast, staying abreast of the newest trends in the tech landscape. But that's not all—my creative side finds joy in <b>Gaming, Music Production, and Hiking</b>, exploring diverse interests beyond the digital world.
+    <br><br>
+    📫 If you're keen on collaborating on exciting projects or exploring new opportunities, let's connect! Drop me a line via email at <a href="mailto:walia.jashan3@gmail.com"></a> or connect with me on <a href="https://www.linkedin.com/in/jashan-walia/">LinkedIn</a>. Let's team up and create something extraordinary together!
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-jashan" alt="mr-jashan" /></a> </p>
-
-- 🌱 I’m currently learning **Flask**
-
-- 📫 How to reach me **walia.jashan3@gmail.com** .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
