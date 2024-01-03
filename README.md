@@ -17,7 +17,7 @@
     <br><br>
     📚 Beyond coding, I'm an avid reader and tech enthusiast, staying abreast of the newest trends in the tech landscape. But that's not all—my creative side finds joy in <b>Gaming, Music Production, and Hiking</b>, exploring diverse interests beyond the digital world.
     <br><br>
-    📫 If you're keen on collaborating on exciting projects or exploring new opportunities, let's connect! Drop me a line via email at <a href="mailto:walia.jashan3@gmail.com"></a> or connect with me on <a href="https://www.linkedin.com/in/jashan-walia/">LinkedIn</a>. Let's team up and create something extraordinary together!
+    📫 If you're keen on collaborating on exciting projects or exploring new opportunities, let's connect! Drop me a line via email at <a href="mailto:walia.jashan3@gmail.com">walia.jashan3@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/jashan-walia/">LinkedIn</a>. Let's team up and create something extraordinary together!
 </p>
 
 
