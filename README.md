@@ -6,7 +6,7 @@
 </head>
 <body>
     <div align="center">
-        <img src="https://github.com/Radhika980/Radhika980/blob/master/Radhika.gif" align="center" style="width: 80%" />
+        <img src="https://github.com/Mr-Jashan/Mr-Jashan/blob/main/Jashan.gif" align="center" style="width: 80%" />
     </div> 
     <p>
     👋 Hey there, tech enthusiasts! I'm <b>Jashan</b>, diving into the exciting world of technology as a dynamic 4th year computer science student at <b>Thapar Institute of Engineering and Technology</b>.
