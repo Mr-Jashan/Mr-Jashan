@@ -9,9 +9,9 @@
         <img src="https://github.com/Mr-Jashan/Mr-Jashan/blob/main/j.gif" align="center" style="width: 80%" />
     </div> 
     <p>
-    👋 Hey there, tech enthusiasts! I'm <b>Jashan</b>, diving into the exciting world of technology as a dynamic 4th year computer science student at <b>Thapar Institute of Engineering and Technology</b>.
+    👋 Hey there, tech enthusiasts! I'm <b>Jashan</b>, diving into the exciting world of technology. Graduated from <b>Thapar Institute of Engineering and Technology</b> in computer engineering.
     <br><br>
-    💻 My passion lies in exploring the depths of tech and software development. I thrive on mastering various programming languages like <b>C++, Python, R, and more</b>. I'm always hungry for knowledge, continually expanding my skill set to stay ahead in this ever-evolving field.
+    💻 My passion lies in exploring the depths of tech and software development. I thrive on mastering various programming languages like <b>C++, Python, and more</b>. I'm always hungry for knowledge, continually expanding my skill set to stay ahead in this ever-evolving field.
     <br><br>
     🚀 Currently, I'm immersing myself in the realms of <b>Azure</b> and sharpening my skills in <b>Power Bi</b> to keep pace with the latest emerging technologies. I'm actively on the lookout for internships and part-time roles to gain practical experience and carve my path in the tech industry.
     <br><br>
